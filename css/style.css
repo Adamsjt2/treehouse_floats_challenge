@@ -137,5 +137,20 @@ a {
 		display: table;
 		clear: both;
 	}
+	.primary {
+		float: right;
+		width: 48%;
+		border: 5px dotted rgb(0, 255, 234);
+		padding: 20px;
+		margin-left: 2%;
 
+	}
+	.secondary {
+		float: left;
+		width: 48%;
+		border: 5px dotted rgb(0, 255, 234);
+		padding: 20px;
+		margin-right: 2%;
+
+	}
 }
